@@ -6,14 +6,13 @@ var retry = 1
   , max = 6
   , _sleep = 1000
   , house_keep_max_rows = 2000
-  , me = 'simonsu@mitac.com.tw'
-  , calendarId = 'mitac.com.tw_oukrmsp93jgb0i41mp1d8fvv88@group.calendar.google.com'
-  , sheetId = '1PaiEwJtey5E_GoK1FpXkRNcbvrAVDrQi8GmIQmgc1kk'
+  , me = 'admin-email@gmail.com'
+  , calendarId = 'your-calendar-id@group.calendar.google.com'
+  , sheetId = 'your-sheet-id'
   , sites = []
   , cfg = {
-    //recipient: 'simonsu@mitac.com.tw,sunnyhu@mitac.com.tw,jesse@mitac.com.tw,jeffwu@mitac.com.tw',
-    recipient: 'simonsu@mitac.com.tw',
-    subject: 'NoMon Monitor Service Notify', 
+    recipient: 'admin-email@gmail.com',
+    subject: 'Notify Email Title', 
     body: '', 
     options: {
       from: me,
