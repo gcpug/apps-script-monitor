@@ -4,6 +4,8 @@ Author: simonsu.mail@gmail.com
 
 ## Server installation
 
+In server side, we should install a daemon that run on port 1337 for present the cpu, memory, disk usages information.
+
 ```
 curl https://raw.githubusercontent.com/micloud/nomon/master/install.sh | bash
 ```
