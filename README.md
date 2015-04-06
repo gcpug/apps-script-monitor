@@ -32,7 +32,16 @@ cfg = {
   * cfg.subject: The notify email title.
   * 
 * Setup the schedule from AppScript console.
+
+![schedule setting](images/pic3.png)
+
 * Setup the monitor list: Create a sheet tab named "Config", and write the monitor servers by the following format
   * name: This is the name of script to create a tab for collect the monitor data
   * url: The server monitor url
   * owner: The notification receivers.
+
+![monitor list](images/pic1.png)
+
+After you setup done, you will see the machine name tab in the sheet. At the same time, the script start to collect the data. 
+
+![collect sample](images/pic2.png)
