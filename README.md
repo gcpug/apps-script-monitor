@@ -2,7 +2,11 @@
 
 ## Author: 
 
-simonsu.mail@gmail.com from GCPUG Taiwan, share our lightweight monitor tool using AppsScript in google sheet. It already integrate the calendar and email notification when monitor failed. You can also open the calendar's SMS notification function to receive the service unavabile notice.
+simonsu.mail@gmail.com from GCPUG Taiwan.
+
+## About this Script
+
+This share our lightweight monitor tool using AppsScript in google sheet. It already integrate the calendar and email notification when monitor failed. You can also open the calendar's SMS notification function to receive the service unavabile notice.
 
 ## Server installation
 
