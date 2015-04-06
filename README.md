@@ -2,7 +2,7 @@
 
 ## Author: 
 
-simonsu.mail@gmail.com from GCPUG Taiwan.
+I am Simon Su (simonsu.mail@gmail.com) member of [GCPUG Taiwan](https://www.facebook.com/groups/GCPUG.TW). Currently, we follow GCPUG in Japan and want to share more Google's tecchnology to Taiwan's developers. 
 
 ## About this Script
 
@@ -18,7 +18,7 @@ curl https://raw.githubusercontent.com/micloud/nomon/master/install.sh | bash
 
 ## Create monitor script
 
-* Create a google sheet
+* Create a google sheet then open the sheet apps script and past the content from "monitor-apps-script.js".
 * Update the following informations
 
 ```
